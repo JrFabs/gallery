@@ -228,9 +228,9 @@ button {
     }
   }
 
-  #bottom {
-    position: fixed;
-    bottom: 0;
+  #top {
+    position: relative;
+    top: 0;
     left: 0;
     right: 0;
     margin: auto;
@@ -258,6 +258,8 @@ button {
     margin:auto;
     border-top-left-radius:  2cm;
     border-top-right-radius: 2cm;
+    border-bottom-left-radius: 2cm;
+    border-bottom-right-radius: 2cm;
     font-size:20px;
   }
   
