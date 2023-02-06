@@ -241,7 +241,7 @@ button {
     display: inline-block;
     vertical-align: middle;
     height: 5em;
-    width: 10em;
+    width: 11em;
     border-radius: 1cm;
   }
 
@@ -250,9 +250,8 @@ button {
     display: inline-block;
     vertical-align: middle;
     margin: 10, 10px;
-    background-color: rgb(135, 238, 252);
-    border: solid rgb(12, 216, 243) 1px;
-    width:400px;
+    background-color: lightblue;
+    width:300px;
     bottom: 0%;
     block-size: 100px;
     margin:auto;
